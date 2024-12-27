@@ -51,7 +51,7 @@ Environment: Google Colab/Jupyter Notebook
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/username/heart-disease-prediction.git
+   git clone https://github.com/karanBx/heart-disease-prediction.git
    ```
 2. Navigate to the project directory:
    ```
